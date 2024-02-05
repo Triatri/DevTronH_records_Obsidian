@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_회의록/DevTronH_01회차(24.01.06).md",
+                "file": "02_예정사항/임시파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_회의록/DevTronH_01회차(24.01.06).md",
+                "file": "02_예정사항/임시파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_회의록/DevTronH_01회차(24.01.06).md",
+                "file": "02_예정사항/임시파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_회의록/DevTronH_01회차(24.01.06).md"
+                "file": "02_예정사항/임시파일.md"
               }
             }
           },
@@ -182,16 +182,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62945cfd77fcd255",
+  "active": "6aeffc05bda621f2",
   "lastOpenFiles": [
-    "변경확인.md",
+    "03_코테풀이/임시 파일.md",
     "Excalidraw/Drawing 2024-02-06 00.53.11.excalidraw.md",
-    "Excalidraw",
     "01_회의록/DevTronH_01회차(24.01.06).md",
+    "변경확인.md",
+    "Excalidraw",
     "01_회의록/DevTronH_06회차(24.02.17).md",
     "01_회의록/DevTronH_00_기록 정리.md",
     "02_예정사항/임시파일.md",
-    "03_코테풀이/임시 파일.md",
     "DevTronH_records_Obsidian",
     "01_회의록/DevTroniH_01회차(24.01.06).md",
     "Welcome.md",
