@@ -153,6 +153,14 @@
                 "file": "01_회의록/DevTronH_01회차(24.01.06).md"
               }
             }
+          },
+          {
+            "id": "6c2f8104f251909c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -168,13 +176,19 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "62945cfd77fcd255",
   "lastOpenFiles": [
-    "01_회의록/DevTronH_06회차(24.02.17).md",
+    "변경확인.md",
+    "Excalidraw/Drawing 2024-02-06 00.53.11.excalidraw.md",
+    "Excalidraw",
     "01_회의록/DevTronH_01회차(24.01.06).md",
+    "01_회의록/DevTronH_06회차(24.02.17).md",
     "01_회의록/DevTronH_00_기록 정리.md",
     "02_예정사항/임시파일.md",
     "03_코테풀이/임시 파일.md",
