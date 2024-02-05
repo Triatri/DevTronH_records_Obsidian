@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "5ad7addd832807cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "69109546e805d50a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edd6e91650f11cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_회의록/DevTronH_01회차(24.01.06).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2e447c4f143d4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e1d65d1732deff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aeffc05bda621f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0eb072df3c6e606",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "004c841cd20a3b1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c34cf273c561b045",
+    "type": "split",
+    "children": [
+      {
+        "id": "145ecdb22aedbb04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b8af10cf9534ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_회의록/DevTronH_01회차(24.01.06).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4fc5ffb7e1764ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_회의록/DevTronH_01회차(24.01.06).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29f3831cc7fba731",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e84b1353807e879f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_회의록/DevTronH_01회차(24.01.06).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "edd6e91650f11cbc",
+  "lastOpenFiles": [
+    "DevTronH_records_Obsidian",
+    "01_회의록/DevTroniH_01회차(24.01.06).md",
+    "01_회의록/DevTronH_01회차(24.01.06).md",
+    "01_회의록/DevTronH_00_기록 정리.md",
+    "01_회의록/DevTronH_06회차(24.02.17).md",
+    "Welcome.md",
+    "무제 폴더 1",
+    "무제 폴더",
+    "02_예정사항",
+    "Injeongwon",
+    "Private_GRAY-DDOT",
+    "03_코테풀이",
+    "01_회의록"
+  ]
+}
