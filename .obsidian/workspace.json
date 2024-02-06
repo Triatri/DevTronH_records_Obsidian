@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_회의록/DevTronH_01회차(24.01.06).md",
+                "file": "변경확인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_회의록/DevTronH_01회차(24.01.06).md",
+                "file": "변경확인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_회의록/DevTronH_01회차(24.01.06).md"
+                "file": "변경확인.md"
               }
             }
           },
@@ -182,12 +182,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6aeffc05bda621f2",
+  "active": "62945cfd77fcd255",
   "lastOpenFiles": [
+    "01_회의록/DevTronH_01회차(24.01.06).md",
     "02_예정사항/임시파일.md",
     "03_코테풀이/임시 파일.md",
     "Excalidraw/Drawing 2024-02-06 00.53.11.excalidraw.md",
-    "01_회의록/DevTronH_01회차(24.01.06).md",
     "변경확인.md",
     "Excalidraw",
     "01_회의록/DevTronH_06회차(24.02.17).md",
